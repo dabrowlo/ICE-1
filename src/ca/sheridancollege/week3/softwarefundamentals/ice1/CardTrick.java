@@ -22,6 +22,9 @@ public class CardTrick
    {
       Card[] magicHand = new Card[7];
       Scanner k = new Scanner(System.in);
+      Card luckyCard = new Card();
+	   luckyCard.setSuit(Card.SUITS[2]);
+      luckyCard.setValue(1);
 
       for (int i = 0; i < magicHand.length; i++) {
          int cValue = (int) Math.floor(Math.random() * 13) + 1;
