@@ -13,6 +13,7 @@ package ca.sheridancollege.week3.softwarefundamentals.ice1;
  * This code is to be used in ICE1. When you create your own branch,
  * add your name as a modifier.
  * @author sivagama
+ * @author Logan Dabrowski - 991614318 - Modified June 7, 2021
  */
 public class Card {
 
