@@ -15,6 +15,7 @@ public class CardTrick {
     
     public static void main(String[] args)
     {
+        //test
         Card[] magicHand = new Card[7];
         
         for (int i=0; i<magicHand.length; i++)
